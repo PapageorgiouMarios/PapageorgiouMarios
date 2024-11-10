@@ -1,6 +1,8 @@
 # Hi there!👋
 
-Undergraduate student of Athens University of Economics and Business. Energetic and motivated to gain experience as a true programmer.
+Graduate student of Athens University of Economics and Business. 
+
+Energetic and motivated to gain experience as a true programmer.
 
 - Enjoying programming and creating new projects 
 - Welcoming to new ideas, methods, and collaborators
