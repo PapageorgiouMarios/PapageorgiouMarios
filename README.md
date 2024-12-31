@@ -36,7 +36,7 @@ Energetic and motivated to gain experience as a true programmer.
 ## 🏆 **Running Score**
 
 <p style="font-size:50px; text-align:left;">
-  <strong>Total Projects created: <span style="color:blue; font-size:60px;">16</span></strong>
+  <strong>Total Projects created: <span style="color:blue; font-size:60px;">17</span></strong>
 </p>
 
 ---
