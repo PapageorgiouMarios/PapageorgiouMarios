@@ -69,6 +69,10 @@
   <a href="https://www.linkedin.com/in/marios-papageorgiou-08a821317/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://github.com/user-attachments/files/21721939/cv_2025.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
+  </a>
 </p>
+
 
 ---
