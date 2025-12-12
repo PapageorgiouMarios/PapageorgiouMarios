@@ -58,7 +58,7 @@
 ## 🏆 **Running Score**
 
 <p style="font-size:50px; text-align:left;">
-  <strong>Total Projects created: <span style="color:blue; font-size:60px;">24</span></strong>
+  <strong>Total Projects created: <span style="color:blue; font-size:60px;">25</span></strong>
 </p>
 
 ---
